@@ -1,4 +1,1 @@
-imfunniee : hey.
-
-
-todo: find a way to merge all forks chat into main repo
+[{"time":"1559111182781","content":"hey this is a test post"}]
